@@ -109,3 +109,11 @@ div:hover.swiper-button-next {
   color: #993e5d;
   cursor: pointer;
 }
+
+/* RODAPE */
+
+.iconesRodape {
+  font-size: 2.5rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}
