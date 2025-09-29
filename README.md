@@ -26,5 +26,6 @@
   <li>react router dom para navegações entre páginas</li>
   <li>swiper para fazer carrossel instalado com npm</li>
   <li>styled-components para estilização do site</li>
-  
+  <li>icones utlizado do fontawesome</li>
+  <li>display grid e flex utilizado</li>
 </ul>
