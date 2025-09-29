@@ -13,9 +13,18 @@
   <li><b>swiper</b></li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Mostrar Serviços</li>
   <li>Mostrar Preços dos Serviços</li>
   <li>Mostrar Contato e Localização</li>
+</ul>
+
+<h2>⚙️ Detalhes Técnicos</h2>
+<ul>
+  <li>Paradigma de programação Estruturado</li>
+  <li>react router dom para navegações entre páginas</li>
+  <li>swiper para fazer carrossel instalado com npm</li>
+  <li>styled-components para estilização do site</li>
+  
 </ul>
